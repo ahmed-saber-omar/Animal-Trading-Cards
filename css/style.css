@@ -2,62 +2,54 @@ body {
     width: 300px;
     border: grey solid 1px;
     padding: 7px;
-}
-
-
-img {
+  }
+  
+  img {
     background: no-repeat;
-    width:300px;
+    width: 300px;
     -webkit-box-shadow: 0px 7px 0px 7px rgba(250,235,158,1);
     -moz-box-shadow: 0px 7px 0px 7px rgba(250,235,158,1);
-     box-shadow: 0px 7px 0px 7px rgba(250,235,158,1);
-}
-
-
-.fact {
+    box-shadow: 0px 7px 0px 7px rgba(250,235,158,1);
+  }
+  
+  .fact {
     font-family: 'Oswald', sans-serif;
     border-left: 3px solid grey;
     padding-left: 6px;
     font-size: 13px;
     font-style: italic;
-}
-
-
-.content {
- padding: 5px;
- font-family: 'Julius Sans One', sans-serif;
--webkit-box-shadow: 0px 0px 0px 7px rgba(250,230,130,1);
--moz-box-shadow: 0px 0px 0px 7px rgba(250,230,130,1);
- box-shadow: 0px 0px 0px 7px rgba(250,230,130,1);
-
-}
-
-
-.name {
+  }
+  
+  .content {
+    padding: 5px;
+    font-family: 'Julius Sans One', sans-serif;
+    -webkit-box-shadow: 0px 0px 0px 7px rgba(250,230,130,1);
+    -moz-box-shadow: 0px 0px 0px 7px rgba(250,230,130,1);
+    box-shadow: 0px 0px 0px 7px rgba(250,230,130,1);
+  }
+  
+  .name {
     width: 25%;
     background-color: rgba(245,214,59,1);
     font-size: 1.4em;
     margin-top: 3px;
     padding-left: 4px;
-}
-
-
-ul {
+  }
+  
+  ul {
     list-style-type: none;
-}
-
-
-p {
+  }
+  
+  .mor-ifo {
     font-family: 'Poiret One', cursive;
-}
-
-
-span {
+  }
+  
+  .highlight {
     font-weight: bold;
-}
-
-
-.Image-source {
-  font-size: 12px;
-  color: #1a0000;
-}
+  }
+  
+  .Image-source {
+    font-size: 12px;
+    color: #1a0000;
+  }
+  
